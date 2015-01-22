@@ -1,15 +1,18 @@
-### List of Scopus Journals and Conferences
-
-This is just an example of the list of scopus journals and conferences. This documents could not be viewed in readme because too large [the size around 15 MB with 21,756 rows data]. So you can view the raw data trough this link http://git.io/tO3hGw
-
+### List of Indexed Journals and Conferences [SCI, SCIE, Scopus, etc]
+This repo just for collectint the list of indexed journals and conferences. Hopefully this repo will be benefits for all of us. 
+:) 
 
 ### Contributions 
 
 To add more, or editing something errors, or updating informations, you can easily fork this project and modify it and `pull request` or `open issue` any time. 
 
-Hopefully this project will be benefit for all of us. 
-:) 
+### List of SCI, SCIE Journals and Conferences
 
+
+
+### List of Scopus Journals and Conferences
+
+This is just an example of the list of scopus journals and conferences. This documents could not be viewed in readme because too large [the size around 15 MB with 21,756 rows data]. So you can view the raw data trough this link http://git.io/tO3hGw
 
 
 Sourcerecord id          |  Print-ISSN           |  E-ISSN     |  Source Title                                                                                                                                                                                                         |  Coverage                                                                                                                                                                       |  Active or Inactive  |  Source Type             |  Publisher's Name                                                                                                                                  |  Country                                   
@@ -42,5 +45,5 @@ Sourcerecord id          |  Print-ISSN           |  E-ISSN     |  Source Title  
 4000148019               |  1550-7416            |  -          |  AAPS Journal                                                                                                                                                                                                         |  1999-ongoing                                                                                                                                                                   |  Active              |  Journal                 |  Springer New York                                                                                                                                 |  United States                             
 19374                    |  1530-9932            |  1522-1059  |  AAPS PharmSciTech                                                                                                                                                                                                    |  2000-ongoing                                                                                                                                                                   |  Active              |  Journal                 |  American Association of Pharmaceutical Scientists                                                                                                 |  United States                             
 15286                    |  1532-8813            |  -          |  AATCC Review                                                                                                                                                                                                         |  2001-ongoing                                                                                                                                                                   |  Active              |  Trade Journal           |  American Association of Textile Chemists and Colorists                                                                                            |  United States                             
-                                            
+
                           
