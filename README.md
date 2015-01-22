@@ -5,7 +5,7 @@ This is just and example of the list of scopus journals. This documents could no
 
 ### Contribution 
 
-To add more, or editing something error, or update information you can easly fork this project and modify it and `pull request` or `open issue` any time. 
+To add more, or editing something error, or update information you can easily fork this project and modify it and `pull request` or `open issue` any time. 
 
 Hopefully this project will be benefit for all of us. 
 :) 
