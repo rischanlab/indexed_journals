@@ -12,8 +12,8 @@ To add more, or editing something errors, or updating informations, you can easi
 
 ### List of Scopus Journals and Conferences
 
-This is just an example's view of the list of scopus journals and conferences. This documents could not be viewed in readme because too large. So you can view the raw data trough the link that we provided or open the file directly from this repo.
-- List of Scopus Journals and Conferences [the size around 15 MB with 21,756 rows data] - last update 2013 - link http://git.io/tO3hGw
+This is just an example's view of the list of scopus journals and conferences. These documents could not be viewed in readme because too large. So you can view the raw data trough the links that we provided or open the file directly from this repo.
+- List of Scopus Journals and Conferences [the size around 15 MB with 21,756 rows data] - last update 2013 - link -> http://git.io/tO3hGw
 
 
 Sourcerecord id          |  Print-ISSN           |  E-ISSN     |  Source Title                                                                                                                                                                                                         |  Coverage                                                                                                                                                                       |  Active or Inactive  |  Source Type             |  Publisher's Name                                                                                                                                  |  Country                                   
