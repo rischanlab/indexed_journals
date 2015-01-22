@@ -1,5 +1,5 @@
 ### List of Indexed Journals and Conferences [SCI, SCIE, Scopus, etc]
-This repo just for collecting the list of indexed journals and conferences. Hopefully this repo will be benefits for all of us. 
+This repo just for collecting the list of indexed journals and conferences. Hopefully, this repo will be benefits for all of us. 
 :) 
 
 ### Contributions 
