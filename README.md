@@ -1,11 +1,11 @@
-### List of Scopus Journals
+### List of Scopus Journals and Conferences
 
 This is just and example of the list of scopus journals. This documents could not be viewed in readme because too large [the size around 15 MB with 21,756 rows data]. So you can view the raw data trough this link http://git.io/tO3hGw
 
 
 ### Contribution 
 
-To add more, or editing something error, or update information you can easily fork this project and modify it and `pull request` or `open issue` any time. 
+To add more, or editing something errors, or updating informations, you can easily fork this project and modify it and `pull request` or `open issue` any time. 
 
 Hopefully this project will be benefit for all of us. 
 :) 
