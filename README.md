@@ -4,7 +4,7 @@ This repo just for collecting the list of indexed journals and conferences. Hope
 
 ### Contributions 
 
-To add more, or editing something errors, or updating informations, you can easily fork this project and modify it and then make a `pull requests` or `open issues` any time. 
+To contribute in this repo, adding more, editing something errors, updating informations, you can easily fork this project and modify it and then make a `pull requests` or `open issues` any time. 
 
 ### List of SCI, SCIE Journals and Conferences
 
