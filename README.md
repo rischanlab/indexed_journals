@@ -6,7 +6,19 @@ This repo just for collecting the list of indexed journals and conferences. Hope
 
 To contribute in this repo, adding more, editing something errors, updating informations, you can easily fork this project and modify it and then make a `pull requests` or `open issues` any time. 
 
-### List of SCI, SCIE Journals and Conferences
+### List of SCI, SCIE Journals, Scopus Journals and Indexed Conferences
+
+### List of SCIE Journals
+- List of SCIE Journals [the size around 3.5 MB with 8,683 rows data] - last update January 2015 - link -> 
+
+### List of Scopus Journals and Conferences
+- List of Scopus Journals and Conferences [the size around 15 MB with 21,918 rows data] - last update January 2015 - link -> 
+- List of Scopus Journals and Conferences [the size around 15 MB with 21,756 rows data] - last update December 2014 - link -> http://git.io/NvEI
+
+
+Below is just an example's view of the list of SCIE journals, scopus journals and indexed conferences. These documents could not be viewed in readme because too large. So you can view the raw data trough the links that we provided or open the file directly from this repo.
+
+Example of head document [SCIE Journals]
 
 No    |  Title                                                                                                                       |  Periodical    |  ISSN             |  Address                                                                                                                                                                                     |  Nation          
 ------|------------------------------------------------------------------------------------------------------------------------------|----------------|-------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------
@@ -59,11 +71,7 @@ No    |  Title                                                                  
 47    |   ACM TRANSACTIONS ON THE WEB                                                                                                |  Quarterly     |  ISSN: 1559-1131  |  ASSOC COMPUTING MACHINERY, 2 PENN PLAZA, STE 701, NEW YORK, USA, NY, 10121-0701                                                                                                             |   USA            
 48    |   ACOUSTICAL PHYSICS                                                                                                         |  Bimonthly     |  ISSN: 1063-7710  |  MAIK NAUKA/INTERPERIODICA/SPRINGER, 233 SPRING ST, NEW YORK, USA, NY, 10013-1578   
 
-### List of Scopus Journals and Conferences
-- List of Scopus Journals and Conferences [the size around 15 MB with 21,756 rows data] - last update 2013 - link -> http://git.io/tO3hGw
 
-
-This is just an example's view of the list of scopus journals and conferences. These documents could not be viewed in readme because too large. So you can view the raw data trough the links that we provided or open the file directly from this repo.
 
 Example of head document [scopus journals and conferences]
 
