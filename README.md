@@ -9,11 +9,11 @@ To contribute in this repo, adding more, editing something errors, updating info
 #### List of SCI, SCIE Journals, Scopus Journals and Indexed Conferences
 
 ###### List of SCIE Journals
-- List of SCIE Journals [the size around 3.5 MB with 8,683 rows data] - last update January 2015 - link -> http://git.io/Nvzu
+- List of SCIE Journals [the size around 3.5 MB with 8,683 rows data] - last update January 2015 - link ->  <a href="http://git.io/Nvzu" target="_blank">git.io/Nvzu</a>
 
 ###### List of Scopus Journals and Conferences
-- List of Scopus Journals and Conferences [the size around 15 MB with 21,918 rows data] - last update January 2015 - link -> http://git.io/Nvz4
-- List of Scopus Journals and Conferences [the size around 15 MB with 21,756 rows data] - last update December 2014 - link -> http://git.io/NvEI
+- List of Scopus Journals and Conferences [the size around 15 MB with 21,918 rows data] - last update January 2015 - link -> <a href="http://git.io/Nvz4" target="_blank">git.io/Nvz4</a>
+- List of Scopus Journals and Conferences [the size around 15 MB with 21,756 rows data] - last update December 2014 - link -> <a href="http://git.io/NvEI" target="_blank">git.io/NvEI</a>
 
 
 Below is just an example's view of the list of SCIE journals, scopus journals and indexed conferences. These documents could not be viewed in readme because too large. So you can view the raw data trough the links that we provided or open the file directly from this repo.
